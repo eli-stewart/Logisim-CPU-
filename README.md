@@ -1,7 +1,7 @@
 # CPU in Logisim
 
 To see the CPU:
-1) download project-3-eli-stewrt
+1) download project-3-eli-stewart
 2) double click logisim-evolution to open Logisim (Logisim is a java program so you must have Java installed)
 3) logisim will open
 4) in the top left corner of the window click File>Open
