@@ -1,9 +1,12 @@
-# CS 61C Spring 2019 Project 3 Starter Code
+# CPU in Logisim
 
-Starter code for CS 61C's Project 3 (Constructing a 2-stage RISC-V datapath in Logisim) for the Spring 2019 semester. 
-
-Starter code for Part 1 (ALU and RegFile) is in the `part1/` directory, and starter code for Part 2 (CPU) is in the `part2/` directory. The shell scripts for Part 2 copy the ALU and RegFile from Part 1 into the Part 2 directory, so there is no need for students to manually move/copy anything. 
-
-The full spec for the project can be [found linked here](https://cs61c.org/projects/proj3/). 
-
-The project is autograded on Gradescope.
+To see the CPU:
+1) download project-3-eli-stewrt
+2) double click logisim-evolution to open Logisim (Logisim is a java program so you must have Java installed)
+3) logisim will open
+4) in the top left corner of the window click File>Open
+5) use the Logisim file navigation to navigate to project-3-eli-stewart/part2/cpu.circ
+6) open cpu.circ in Logisim to view the entire cpu circuit
+7) click on subcomponents and then double-click on the magnifying glass that appears on them to see the circuit layout of the subcomponents
+8) see subcomponents: alu.circ, cpu.circ, regfile.circ
+9) see the cpu circuit in action by opening run.circ and inputing RISC-V instructions in binary
